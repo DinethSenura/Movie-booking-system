@@ -1,0 +1,12 @@
+
+.content{
+    visibility: visible;
+    animation-delay: 0.3s;
+    animation-name: fadeInUp;
+}
+article.desc{
+    color:white;
+}
+p.desc{
+    color:white;
+}
